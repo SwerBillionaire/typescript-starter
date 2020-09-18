@@ -2,7 +2,7 @@
 
 ## Installation
 
-- clone: ``
+- clone: `git clone git@github.com:SwerBillionaire/typescript-starter.git`
 - install dependencies: `yarn` or `npm install`
 
 ## Usage
