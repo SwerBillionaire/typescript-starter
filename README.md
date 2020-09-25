@@ -7,6 +7,6 @@
 
 ## Usage
 
-- build: `yarn build`
-- for dev: `yarn dev`
-- build and start: `yarn start`
+- build: `yarn build` or `npm run build`
+- for dev: `yarn dev` or `npm run dev`
+- build and start: `yarn start` or `npm run start`
